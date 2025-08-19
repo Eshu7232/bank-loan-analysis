@@ -32,7 +32,7 @@ The goal of this project is to provide **data-driven insights** that can help fi
 
 ## 📂 Project Workflow
 1. **Data Loading & Cleaning**
-   - Imported dataset (CSV format)
+   - Imported dataset (Excel format)
    - Handled missing values, duplicates, and incorrect data types  
    - Created new derived columns for better analysis  
 
