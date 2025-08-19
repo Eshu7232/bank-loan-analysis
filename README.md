@@ -64,7 +64,17 @@ The goal of this project is to provide **data-driven insights** that can help fi
 ## 🚀 Future Scope
 - Apply **Machine Learning models** to predict loan defaults.  
 - Build a **dashboard in Power BI / Tableau** for interactive visualization.  
-- Perform **feature engineering** for better risk assessment.  
+- Perform **feature engineering** for better risk assessment.
+
+## 📌 Conclusion
+This project provided valuable insights into the bank’s loan portfolio by performing in-depth Exploratory Data Analysis (EDA). Key findings include:
+
+- Identified trends in loan applications based on term, purpose, and state distribution.
+- Highlighted approval and rejection patterns, helping to understand risk factors.
+- Uncovered relationships between loan amount, interest rate, and borrower income.
+- Provided data-driven insights to support decision-making for credit risk management.
+ 
+ Overall, the analysis helps financial institutions minimize default risks, improve loan approval strategies, and enhance customer segmentation for better business outcomes.
 
 ---
 
