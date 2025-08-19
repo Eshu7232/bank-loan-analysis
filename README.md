@@ -26,7 +26,7 @@ The goal of this project is to provide **data-driven insights** that can help fi
 - **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Environment:** Jupyter Notebook
 - **interactive dashboards:** Plotly Express
-- **Dataset Format:** CSV  
+- **Dataset Format:** Excel  
 
 ---
 
